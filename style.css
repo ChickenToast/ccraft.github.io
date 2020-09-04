@@ -1,0 +1,414 @@
+body {
+    background-color: #303030;
+}
+.headtitle {
+    order: 4;
+
+    margin-left: 500px;
+    font-family: 'Exo', sans-serif; 
+     font-size: 90px; 
+    --animate-duration: 2.5s;
+    margin-top: -160px;
+}
+
+
+#ccraftlogo {
+    order: 5;
+    margin-top: -190px;
+    margin-left: 250px;
+    float: left;
+        --animate-duration: 2.5s;
+}
+
+#endportal {
+object-fit: cover;
+margin-left: 25px;
+}
+.About {
+    background-color: white;
+    font-family: 'Hind', sans-serif;
+}
+#bth1 {
+    margin-left: 840px;
+    margin-top: 40px;
+}
+#btp {
+    margin-left: -55px;
+    text-align: center;
+    font-size: 24px;
+}
+#homeim {
+    object-fit: cover;
+
+    
+}
+#homeimid {
+    font-family: 'Exo', sans-serif;
+    font-size: 38px;
+
+    color: white;
+    margin-left: 1400px;
+}
+
+#hypnoistasty {
+    color: white;
+    font-family: 'Exo', sans-serif;
+    font-size: 18px;
+    margin-left: 1300px;
+
+}
+#aboutpltf {
+    font-family: 'Hind', sans-serif;
+    color: black;
+    font-size: 24px;
+        text-align: center;
+    margin-left: -15px;
+}
+
+.aboutcrossplatf {
+    background-color: white;
+}
+
+#aboutpltftitle {
+    font-family: 'Hind', sans-serif;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+#lolidk {
+        object-fit: cover;
+
+}
+#tradetitle {
+    font-family: 'Exo', sans-serif;
+    color: white;
+    font-size: 58px;
+
+    margin-left: 80px;
+}
+
+#tradedesc {
+    font-family: 'Exo', sans-serif;
+    color: white;
+    font-size: 26px;
+
+    margin-left: 40px;
+}
+
+#sorrymuslimgaming {
+    font-family: 'Hind', sans-serif;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+#gimmeidideas {
+    font-family: 'Hind', sans-serif;
+    color: black;
+    font-size: 24px;
+        text-align: center;
+    margin-left: -15px;
+
+}
+
+.tradedesc {
+    background-color: white;
+}
+
+#vanillaex {
+    object-fit: cover;
+
+}
+
+#vanillatitle {
+    font-family: 'Exo', sans-serif;
+    color: white;
+    font-size: 46px;
+
+    margin-left: 40px;
+    margin-left: 1400px;
+}
+
+#vanilladesc {
+        font-family: 'Exo', sans-serif;
+    color: white;
+    font-size: 22px;
+
+    margin-left: 40px;
+    margin-left: 1300px;
+}
+
+#vanilladesctitle {
+    font-family: 'Hind', sans-serif;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+#vanilladescabt {
+    font-family: 'Hind', sans-serif;
+    color: black;
+    font-size: 24px;
+        text-align: center;
+    margin-left: -15px;
+
+}
+
+.vanilladesc {
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+#gottem {
+    color: white;
+    font-size: 20px;
+    margin-left: 870px;
+}
+
+#discordlink {
+    margin-left: 830px;
+    
+}
+
+#instalink {
+    margin-left: 30px;
+    
+}
+
+#linksfo {
+    color: white;
+    font-family: 'Exo', sans-serif;
+    margin-top: -150px;
+    font-size: 30px;
+    margin-left: 880px;
+}
+
+#servercard {
+    margin-top: 10px;
+    margin-left: 580px;
+ }
+
+#uhhh {
+    color: white;
+    font-family: 'Exo', sans-serif;
+    font-size: 30px;
+    margin-left: 750px;
+}
+
+#statsa {
+    margin-left: 30px;
+}
+
+#chikentoast {
+    margin-left: 850px;
+}
+
+#rulest {
+    margin-left: 190px;
+}
+
+.rulesdiv {
+    background-color: white;
+}
+
+#rulestitle {
+    font-family: 'Hind', sans-serif;
+    font-size: 50px;
+    color: black;
+    margin-left: 820px;
+    margin-top: 20px;
+}
+
+#rulestext {
+    font-family: 'Hind', sans-serif;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.lore {
+    background-color: white;
+}
+
+#lorest {
+    margin-left: 220px;
+}
+
+#bcf {
+    font-family: 'Hind', sans-serif;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#bcc {
+    font-family: 'Hind', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+#ccr {
+    font-family: 'Hind', sans-serif;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#ccrt {
+    font-family: 'Hind', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+#rd {
+    font-family: 'Hind', sans-serif;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#rdt {
+    font-family: 'Hind', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+#bd {
+    font-family: 'Hind', sans-serif;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#bdt {
+    font-family: 'Hind', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+#ccr {
+    font-family: 'Hind', sans-serif;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#ccrt {
+    font-family: 'Hind', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+#jungle {
+    object-fit: cover;
+    margin-left: 7px;
+    margin-top: 23px;
+}
+
+.aftrim {
+    background-color: white;
+}
+
+#portalim {
+    object-fit: cover;
+    margin-left: 7px;
+    margin-top: 23px;
+}
+
+.shcmeefslwpleeph {
+    background-color: white;
+}
+
+#ladislaw {
+    object-fit: cover;
+    margin-left: 7px;
+    margin-top: 23px;
+}
+
+.dfasjn {
+    background-color: white;
+}
+
+#baseimg {
+    object-fit: cover;
+    margin-left: 7px;
+    margin-top: 23px;
+}
+
+.main {
+    background-color: white;
+}
+
+.sup_yt {
+    font-family: 'Exo', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.help {
+    font-family: 'Hind', sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+.whatif {
+    align-items: center;
+    margin-left: 560px;
+}
+
+#potats {
+    margin-left: 1200px;
+    margin-top: -650px;
+}
+
+#gofundme {
+    font-family: 'Exo', sans-serif;
+    font-size: 60px;
+}
+
+.creditss {
+    font-family: 'Exo', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.creditsp {
+    font-family: 'Hind', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+#creditds {
+    margin-left: 160px;
+}
+
+#warren {
+    margin-top: -2200px;
+    margin-left: 100px;
+}
+
+#caler {
+    margin-top: -2200px;
+    margin-left: 1500px;
+}
+
+#dweefbweef {
+    margin-top: -1000px;
+    margin-left: 1000px;
+}
+
+#hypnouwu {
+    margin-left: 740px;
+}
+
+#theend {
+    font-family: 'Exo', sans-serif;
+    font-size: 60px;
+    text-align:center;
+}
